@@ -4,8 +4,8 @@ This repository contains a machine learning model to predict loan approval based
 
 ## Contents
 
-- `loan_approval-3.ipynb`: Main notebook with all analysis and model code.
-- `dataset.csv`: Input dataset used for training and testing.
+- `loan_approval.ipynb`: Main notebook with all analysis and model code.
+- `data.csv`: Input dataset used for training and testing.
 - `requirements.txt`: Required Python libraries.
 
 ## How to Run
