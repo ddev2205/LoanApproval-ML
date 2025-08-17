@@ -10,13 +10,13 @@ This repository contains a machine learning model to predict loan approval based
 
 ## How to Run
 
-1. Clone the repo:
-git clone https://github.com/ddev2205/LoanApproval-ML.git
-cd LoanApproval-ML
+1. Clone this repository or download the notebook:
+    ```
+    git clone https://github.com/ddev2205/LoanApproval-ML
+    ```
+2. Install required libraries:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Open the Jupyter notebook: `jupyter notebook loan_approval.ipynb`
 
-3. Install dependencies:
-pip install -r requirements.txt
-
-
-3. Open the Jupyter notebook:
-jupyter notebook loan_approval.ipynb
